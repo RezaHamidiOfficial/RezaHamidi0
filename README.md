@@ -1,7 +1,7 @@
 <h1 align="left">Hi👋, I'm Reza Hamidi</h1>
-<h4 align="left">Web & PWA 💻, mid-level front-end developer and motivated,
+<h3 align="left">Web & PWA 💻, mid-level front-end developer and motivated,
 software engineering student, Always looking for new things to learn, Passionate about website and web application development, especially with Vue.JS and Typescript.
-I'm interested in teamwork, creativity, and new ideas.</h4>
+I'm interested in teamwork, creativity, and new ideas.</h3>
 
 <br />
 <h2 align="left">💻 Tech Stack</h3>
