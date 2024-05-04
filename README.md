@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza Hamidi</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">Web & PWA 💻, mid-level front-end developer and motivated,
+software engineering student, Always looking for new things to learn, Passionate about website and web application development, especially with Vue.JS and Typescript.
+I'm interested in teamwork, creativity, and new ideas.</h3>
 
 - 🔭 I’m currently working on [kdel](https://kdel.com)
 
