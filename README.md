@@ -5,7 +5,9 @@ I'm interested in teamwork, creativity, and new ideas.</p>
 
 <br />
 <h2 align="left">💻 Tech Stack</h2>
- ![Skills](https://github.com/RezaHamidi0/RezaHamidi0/assets/103819181/b4cbf94a-6465-4ade-b4dd-cce289e3edba)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
 <br />
 
 <h2 align="left">🌐 My socials</h2>
