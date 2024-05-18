@@ -16,6 +16,5 @@ I'm interested in teamwork, creativity, and new ideas.</p>
 <br />
 
 <h2 align="left">⚙️ Tools</h2>
-<p align="left">
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+    <img src="https://github.com/RezaHamidi0/RezaHamidi0/assets/103819181/b2f30c55-aecf-43b2-9528-ac83c2315cb1" width="500" />
+
