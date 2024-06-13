@@ -1,5 +1,5 @@
 <h1 align="left">Hi👋, I'm Reza Hamidi</h1>
-<h2 align="left">Mid-Level Front-end Web & PWA Developer 💻,</h2>
+<h4 align="left">Mid-Level Front-end Web & PWA Developer 💻,</h4>
 <p align="left">software engineering student, Always looking for new things to learn, Passionate about website and web application development, especially with Vue.JS and Typescript.
 I'm interested in teamwork, creativity, and new ideas.</p>
 
