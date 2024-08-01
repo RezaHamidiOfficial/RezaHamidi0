@@ -15,4 +15,4 @@ I'm interested in teamwork, creativity, and new ideas.</p>
 <br />
 
 <h2 align="left">🌐 My socials</h2>
-    <img src="https://github.com/RezaHamidi0/RezaHamidi0/assets/103819181/8f701e50-eef2-42e5-9e22-ce7e3df09ca2" width="320" />
+    <img src="https://github.com/RezaHamidi0/RezaHamidi0/assets/103819181/8f701e50-eef2-42e5-9e22-ce7e3df09ca2" width="310" />
